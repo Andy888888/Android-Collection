@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="config_success" type="id" />
+    <item name="config_error" type="id" />
+    <item name="config_process" type="id" />
+</resources>
